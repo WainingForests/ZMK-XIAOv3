@@ -1,4 +1,4 @@
-if SHIELD_XIAO3_LEFT
+if SHIELD_XIAO3_RIGHT
 
 config ZMK_KEYBOARD_NAME
     default "Skree Custom"
